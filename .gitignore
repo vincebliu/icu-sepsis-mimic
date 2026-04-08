@@ -1,0 +1,20 @@
+# Data files - too large for GitHub
+data/trajectories.parquet
+data/kmeans.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Results - add after paper submission
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

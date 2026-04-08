@@ -58,9 +58,9 @@ pip install icu-sepsis-mimic
 ## Citation
 
 ```bibtex
-@article{wang2026icusepsismimic,
+@article{liu2026icusepsismimic,
   title={ICU-Sepsis-MIMIC-IV: A Benchmark MDP for Sepsis Treatment Optimization},
-  author={Wang, Chenhui and Liu, Vincent B and Kong, Deqian and Honig, Edouardo and Wu, Ying Nian},
+  author={Liu, Vincent B and Wang, Chenhui and Kong, Deqian and Honig, Edouardo and Wu, Ying Nian},
   year={2026}
 }
 ```

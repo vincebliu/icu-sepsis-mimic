@@ -52,8 +52,16 @@ for trajectory in dataset:
 ## Installation
 
 ```bash
-pip install icu-sepsis-mimic
+git clone https://github.com/vincebliu/icu-sepsis-mimic.git
+cd icu-sepsis-mimic
+pip install -e .
 ```
+
+## Requirements
+
+- Python >= 3.8
+- gymnasium >= 0.26.0
+- numpy, pandas, pyarrow, scikit-learn
 
 ## Citation
 

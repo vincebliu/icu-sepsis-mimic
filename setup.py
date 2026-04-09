@@ -10,7 +10,6 @@ setup(
     description='A tabular MDP benchmark for sepsis treatment optimization built from MIMIC-IV',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='Chenhui Wang, Vincent B Liu, Deqian Kong, Edouardo Honig, Ying Nian Wu',
     packages=find_packages(),
     package_data={
         'icu_sepsis_mimic': ['../data/*.parquet', '../data/*.pkl',

@@ -23,7 +23,6 @@ from icu_sepsis_mimic.env import ICUSepsisMIMICEnv
 from icu_sepsis_mimic.datasets import load_dataset, get_dataset_stats, list_datasets
 
 __version__ = '0.1.0'
-__author__ = 'Chenhui Wang, Vincent B Liu, Deqian Kong, Edouardo Honig, Ying Nian Wu'
 
 __all__ = [
     'ICUSepsisMIMICEnv',

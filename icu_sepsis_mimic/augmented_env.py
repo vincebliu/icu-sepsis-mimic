@@ -47,7 +47,7 @@ class ICUSepsisAugmentedEnv(gym.Env):
         super().__init__()
 
         self.data_dir = data_dir or os.path.join(
-            os.path.dirname(__file__), 'sepsis_mdp_augmented'
+            os.path.dirname(__file__), '..', 'data', 'augmented'
         )
         self.S_SURVIVE = self.K
         self.S_DIE     = self.K + 1
